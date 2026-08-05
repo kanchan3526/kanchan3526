@@ -2,9 +2,7 @@
 
 ### 💻 Computer Science Student
 
-🌱 Currently learning HTML, CSS & JavaScript
-
-🚀 Building projects every day
+🌱 Currently learning HTML, CSS & JavaScript and python
 
 ## 🛠️ Skills
 
@@ -16,17 +14,7 @@
 - Git
 - GitHub
 
-## 🏆 Microsoft Learn Badges
 
-- Microsoft Learn
-- Git
-- GitHub
-
-## 🚀 Projects
-
-- Password Generator
-- Digital Clock
-- Quiz App
 ## 📫 How to reach me
 
 <p align="left">
