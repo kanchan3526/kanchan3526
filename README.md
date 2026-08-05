@@ -1,4 +1,4 @@
-# Hi 👋, I'm Kanchan Ghalake
+# Hi 👋, I'm Kanchan 
 
 ### 💻 Computer Science Student
 
