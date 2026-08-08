@@ -10,8 +10,6 @@
 - CSS
 - JavaScript
 - Python
-- C#
-- Git
 - GitHub
 
 
